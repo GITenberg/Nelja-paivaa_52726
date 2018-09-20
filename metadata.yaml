@@ -1,0 +1,34 @@
+_repo: Nelja-paivaa_52726
+_version: 0.0.1
+alternative_title: Les quatre journées de Jean Gourdon. Finnish
+contributor:
+  translator:
+    agent_name: Tuura, Timo
+    gutenberg_agent_id: '46998'
+    url: http://www.gutenberg.org/2009/agents/46998
+creator:
+  author:
+    agent_name: Zola, Émile
+    alias: Zola, Émile Édouard Charles Antoine
+    birthdate: 1840
+    deathdate: 1902
+    gutenberg_agent_id: '528'
+    url: http://www.gutenberg.org/2009/agents/528
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Émile_Zola
+    - http://fr.wikipedia.org/wiki/%C3%89mile_Zola
+description: ''
+gutenberg_issued: '2016-08-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52726'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Peasants -- France -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: Neljä päivää
+url: http://www.gutenberg.org/ebooks/52726
